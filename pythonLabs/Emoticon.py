@@ -16,8 +16,8 @@ def main():
             print(f"{random.choice(eyes)}{random.choice(noses)}{random.choice(mouth)}")
 
         play_again = input('Thanks for using Emoticon, do you want to play again?')
-        if play_again == 'n':
 
+        if play_again == 'n':
             play_again = False
 
 
